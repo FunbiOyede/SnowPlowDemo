@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "userName": "PeterParker",
+    "hotelName": "Hilton",
+    "hotelAddress": "Spain",
+    "checkInDate": "20th of September 2022",
+    "CheckOutDate": "20th of September 2022"
+  },
+  {
+   
+    "id": 2,
+    "userId": 1,
+    "userName": "PeterParker",
+    "hotelName": "Radison",
+    "hotelAddress": "Spain",
+    "checkInDate": "20th of September 2022",
+    "CheckOutDate": "20th of September 2022"
+  }
+]
