@@ -1,5 +1,5 @@
 # SnowPlowDemo
- Solution to interview assignment
+ Solution to technical assignment
 
 ### Overview
 
